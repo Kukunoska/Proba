@@ -1,0 +1,76 @@
+04.04.2016 23:43:54	This log contains information about the import schema operation into project 'Database' on computer 'JASMINA-M4800' by user 'Jasmina'.
+04.04.2016 23:43:56	Import of database schema has started.
+04.04.2016 23:44:04	Gathering database options
+04.04.2016 23:44:04	Gathering users
+04.04.2016 23:44:04	Gathering roles
+04.04.2016 23:44:04	Gathering application roles
+04.04.2016 23:44:04	Gathering role memberships
+04.04.2016 23:44:04	Gathering filegroups
+04.04.2016 23:44:04	Gathering full-text catalogs
+04.04.2016 23:44:04	Gathering assemblies
+04.04.2016 23:44:04	Gathering certificates
+04.04.2016 23:44:04	Gathering asymmetric keys
+04.04.2016 23:44:04	Gathering symmetric keys
+04.04.2016 23:44:04	Gathering encrypted symmetric keys
+04.04.2016 23:44:04	Gathering schemas
+04.04.2016 23:44:04	Gathering XML schema collections
+04.04.2016 23:44:04	Gathering user-defined data types
+04.04.2016 23:44:04	Gathering user-defined types
+04.04.2016 23:44:04	Gathering table types
+04.04.2016 23:44:04	Gathering unique keys for table types
+04.04.2016 23:44:04	Gathering primary keys for table types
+04.04.2016 23:44:04	Gathering check constraints for table types
+04.04.2016 23:44:04	Gathering default constraints for table types
+04.04.2016 23:44:04	Gathering partition functions
+04.04.2016 23:44:04	Gathering partition schemes
+04.04.2016 23:44:04	Gathering functions
+04.04.2016 23:44:04	Gathering encrypted functions
+04.04.2016 23:44:04	Gathering aggregates
+04.04.2016 23:44:04	Gathering procedures
+04.04.2016 23:44:04	Gathering encrypted procedures
+04.04.2016 23:44:04	Gathering tables
+04.04.2016 23:44:04	Gathering primary keys
+04.04.2016 23:44:04	Gathering unique constraints
+04.04.2016 23:44:04	Gathering foreign keys
+04.04.2016 23:44:04	Gathering default constraints
+04.04.2016 23:44:04	Gathering check constraints
+04.04.2016 23:44:04	Gathering views
+04.04.2016 23:44:04	Gathering encrypted views
+04.04.2016 23:44:04	Gathering indexes
+04.04.2016 23:44:04	Gathering statistics
+04.04.2016 23:44:04	Gathering full-text index stoplists
+04.04.2016 23:44:04	Gathering search property lists
+04.04.2016 23:44:04	Gathering search properties
+04.04.2016 23:44:04	Gathering full-text indexes
+04.04.2016 23:44:04	Gathering column store indexes
+04.04.2016 23:44:04	Gathering spatial indexes
+04.04.2016 23:44:04	Gathering XML indexes
+04.04.2016 23:44:04	Gathering encrypted triggers
+04.04.2016 23:44:04	Gathering triggers
+04.04.2016 23:44:04	Gathering encrypted and clr ddl triggers
+04.04.2016 23:44:04	Gathering ddl triggers
+04.04.2016 23:44:04	Gathering synonyms
+04.04.2016 23:44:04	Gathering defaults
+04.04.2016 23:44:04	Gathering data constraint uddt bindings
+04.04.2016 23:44:04	Gathering rules
+04.04.2016 23:44:04	Gathering data constraint uddt bindings
+04.04.2016 23:44:04	Gathering message types
+04.04.2016 23:44:04	Gathering queues
+04.04.2016 23:44:04	Gathering contracts
+04.04.2016 23:44:04	Gathering services
+04.04.2016 23:44:04	Gathering event notifications
+04.04.2016 23:44:04	Gathering remote service bindings
+04.04.2016 23:44:04	Gathering broker priorities
+04.04.2016 23:44:04	Gathering signatures
+04.04.2016 23:44:04	Gathering data compression options
+04.04.2016 23:44:04	Gathering sequence types
+04.04.2016 23:44:04	Gathering database permissions
+04.04.2016 23:44:04	Gathering extended properties
+04.04.2016 23:44:04	Gathering credentials
+04.04.2016 23:44:04	Gathering logins
+04.04.2016 23:44:04	Gathering server audits
+04.04.2016 23:44:06	Scanning project for duplicate elements
+04.04.2016 23:44:07	Finished duplicate element processing
+04.04.2016 23:44:07	Finished importing database.
+04.04.2016 23:44:07	A summary of the import was saved to the following location: C:\Users\Jasmina\Documents\Visual Studio 2013\Projects\Database\Database\Import Schema Logs\Database_20160404094354.log
+04.04.2016 23:44:08	Click Finish to continue...
